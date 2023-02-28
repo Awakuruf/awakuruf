@@ -2,7 +2,7 @@
 
 📚 I'm a Cognitive System & Computer Science undergraduate student at University of British Columbia, graduating in 2025.
 
-👀 I’m interested in AI Development, Software Development and Web Development!
+👀 I’m interested in Software Development, Artificial Intelligence Engineering and Front-End Web Development!
 
 💻 Check out my website at [https://awakuruf.github.io/](https://awakuruf.github.io/)
 
