@@ -46,3 +46,4 @@
 | ------------- | ------------- |  
 <!-- | <a href="https://leetcode.com/daichifr/">![LeetCode Stats](https://leetcard.jacoblin.cool/daichifr?theme=light&font=Fira%20Code&ext=heatmap) | <div align="center"><h3>Goals for 15 August 2023</h3><h4>Easy / Medium / Hard</h4><p>100 / 150 / 25</p></div>|
  -->
+<a href="https://leetcode.com/daichifr/">![LeetCode Stats](https://leetcard.jacoblin.cool/daichifr?theme=light&font=Fira%20Code&ext=heatmap) | <div align="center">
