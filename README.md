@@ -10,7 +10,7 @@
 
 ⚙️ Development of ReactJS Full-Stack portfolio is currently in progress!
 
-💡 Currently learning: Functioning Programming, ReactJS, and MySQL
+💡 Currently learning: Dynamic Programming, Gradle Testing Process , and AWS Java SDK V2 
 
 📫 Reach me below:
 <div align="left">
