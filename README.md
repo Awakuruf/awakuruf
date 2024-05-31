@@ -2,7 +2,7 @@
 
 📚 I'm a Cognitive System & Computer Science undergraduate student at University of British Columbia, graduating in 2025.
 
-💼 Software Engineer Intern @ Mastercard | Previously Cloud Support Engineer Intern @ Amazon Web Service 
+💼 Software Developer Intern @ Dayforce | Previously Software Engineer @ Mastercard and Cloud Support Engineer Intern @ Amazon Web Service 
 
 👀 I’m interested in Software Development, Artificial Intelligence Engineering and Cloud Engineering!
 
