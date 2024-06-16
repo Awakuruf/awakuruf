@@ -17,7 +17,7 @@
 <a href="https://www.linkedin.com/in/daichi-furukawa-588677233/" target="_blank">
   <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://bento.me/daichif" target="_blank">
+<a href="https://awakuruf.github.io/" target="_blank">
   <img src=https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white alt=website style="margin-bottom: 5px;" />
 </a> or email me at <a href="mailto:daichifg0626@gmail.com" target="_blank">daichifg0626@gmail.com</a>
 
