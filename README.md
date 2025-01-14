@@ -6,11 +6,9 @@
 
 👀 I’m interested in Software Development, Artificial Intelligence Engineering and Cloud Engineering!
 
-💻 Check out my portfolio website at [https://awakuruf.github.io/](https://awakuruf.github.io/)
+💻 Check out my portfolio website at [https://awakuruf.github.io/](https://awakuruf.github.io/)! 
 
-⚙️ Development of ReactJS Full-Stack portfolio is currently in progress!
-
-💡 Currently learning: Dynamic Programming, Gradle Testing Process , and AWS Java SDK V2 
+💡 Currently learning: Dynamic Programming, Gradle Testing Process, and AWS Java SDK V2 
 
 📫 Reach me below:
 <div align="left">
